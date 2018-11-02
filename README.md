@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This web verison of minesweeper was built primarily to get familiar with HTML, CSS and JavaScript. The game itself isn't optimized, but was fun to build to get familiar with the technologies!
+This web version of minesweeper was built primarily to get familiar with HTML, CSS and JavaScript. The game itself isn't optimized, but was fun to build to get familiar with the technologies!
 
 ## Player Controls
 
