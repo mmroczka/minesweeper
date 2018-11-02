@@ -2,8 +2,6 @@
 
 [Click here to demo our live game!](https://mmroczka.github.io/minesweeper/)
 
-_By Michael Mroczka & Max Petretta_
-
 ## Project Overview
 
 This web verison of minesweeper was built primarily to get familiar with HTML, CSS and JavaScript. The game itself isn't optimized, but was fun to build to get familiar with the technologies!
@@ -36,3 +34,5 @@ This version of minesweeper has three levels: Easy, Intermediate, and Advanced.
 ### Known Defects
 * It is possible to have negative flags, but it shouldn't be
 * You can continue the game after you've lost, but we should prevent additional clicks on the board itself
+
+_By Michael Mroczka & Max Petretta_
