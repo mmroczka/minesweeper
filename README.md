@@ -13,7 +13,7 @@ This web verison of minesweeper was built primarily to get familiar with HTML, C
 Simply choose any level of minesweeper to start and the game timer will automatically start running. From there, mouse **left clicks are interpreted as guesses and right clicks are interpretted as flags**.
 
 
-<img src="https://github.com/mmroczka/minesweeper/blob/master/gifs/flags.gif" alt="alt text" width="800" height="400">
+<img src="https://github.com/mmroczka/minesweeper/blob/master/gifs/flags.gif" alt="alt text" width="400" height="400">
 
 
 ## Levels
