@@ -35,4 +35,4 @@ This version of minesweeper has three levels: Easy, Intermediate, and Advanced.
 * It is possible to have negative flags, but it shouldn't be
 * You can continue the game after you've lost, but we should prevent additional clicks on the board itself
 
-_By Michael Mroczka & Max Petretta_
+_By Michael Mroczka & [Max Petretta](https://github.com/MaxPetretta)_
