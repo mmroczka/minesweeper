@@ -1,6 +1,6 @@
 # Minesweeper
 
-[Click here to demo our live game!](https://mmroczka.github.io/minesweeper/)
+[Click here to demo the game!](https://mmroczka.github.io/minesweeper/)
 
 ## Project Overview
 
